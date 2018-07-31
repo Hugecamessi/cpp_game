@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="mainfunction.cpp" />
+    <ClCompile Include="Demo1Main.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo2Main.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo2Object.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo2TileManager.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo3Main.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo3Object.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo3ObjectFinished.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo3TileManager.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo4Main.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo4Object.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="Demo4TileManager.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleDemo.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="BouncingBall.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="BouncingBallMain.cpp">
+      <Filter>Demos</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseEngine.cpp">
+      <Filter>Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayableObject.cpp">
+      <Filter>Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="JPGImage.cpp">
+      <Filter>Shared</Filter>
+    </ClCompile>
+    <ClCompile Include="TileManager.cpp">
+      <Filter>Shared</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Demo1Main.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo2Main.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo2Object.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo2TileManager.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo3Main.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo3Object.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo3ObjectFinished.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo3TileManager.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo4Main.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo4Object.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="Demo4TileManager.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleDemo.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingBall.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="BouncingBallMain.h">
+      <Filter>Demos</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseEngine.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayableObject.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="header.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="JPGImage.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementPosition.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="templates.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+    <ClInclude Include="TileManager.h">
+      <Filter>Shared</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Demos">
+      <UniqueIdentifier>{113d49f7-9145-4085-956d-d7e0c2a10f9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shared">
+      <UniqueIdentifier>{6c9ed7f2-52f2-4940-a5ae-935de62ca045}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
