@@ -1,0 +1,38 @@
+﻿  DemoAMain.cpp
+  mainfunction.cpp
+mainfunction.cpp(8): fatal error C1083: Cannot open include file: 'BouncingBallMain.h': No such file or directory
+  BaseEngine.cpp
+  Psyjz7Engine.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Psyjz7Engine.cpp': No such file or directory
+  Psyjz7Object.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Psyjz7Object.cpp': No such file or directory
+  Psyjz7TileManager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Psyjz7TileManager.cpp': No such file or directory
+  SimpleDemo.cpp
+  BouncingBall.cpp
+c1xx : fatal error C1083: Cannot open source file: 'BouncingBall.cpp': No such file or directory
+  BouncingBallMain.cpp
+c1xx : fatal error C1083: Cannot open source file: 'BouncingBallMain.cpp': No such file or directory
+  Demo1Main.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo1Main.cpp': No such file or directory
+  Demo2Main.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo2Main.cpp': No such file or directory
+  Demo2Object.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo2Object.cpp': No such file or directory
+  Demo2TileManager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo2TileManager.cpp': No such file or directory
+  Demo3Main.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo3Main.cpp': No such file or directory
+  Demo3Object.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo3Object.cpp': No such file or directory
+  Demo3ObjectFinished.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo3ObjectFinished.cpp': No such file or directory
+  Demo3TileManager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo3TileManager.cpp': No such file or directory
+  Demo4Main.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo4Main.cpp': No such file or directory
+  Demo4Object.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo4Object.cpp': No such file or directory
+  Demo4TileManager.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Demo4TileManager.cpp': No such file or directory
+  Generating Code...
